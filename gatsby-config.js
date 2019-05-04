@@ -22,16 +22,20 @@ module.exports = {
     menuMoreText: 'Show more',
     mainMenu: [
       {
-        title: 'About',
-        path: '/about',
+        title: 'Acceuil',
+        path: '/Acceuil',
       },
       {
-        title: 'Showcase',
-        path: '/showcase',
+        title: 'Le club',
+        path: '/club',
       },
       {
-        title: 'Example',
-        path: '/example',
+        title: 'Les informations',
+        path: '/info',
+      },
+      {
+        title: 'Les créneaux',
+        path: '/creneaux',
       },
     ],
   },
