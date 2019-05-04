@@ -2,7 +2,7 @@
 title: "Hello Friend"
 path: "/hello"
 date: "2019-01-17"
-coverImage: "../images/hello.jpg"
+coverImage: "../images/logo 8.jpg"
 author: "Elliot"
 excerpt: '"Hello, friend?" That''s lame. Maybe I should give you a name...'
 tags: ["rob____ot", "hello friend"]
