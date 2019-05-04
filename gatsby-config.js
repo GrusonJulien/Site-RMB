@@ -23,7 +23,7 @@ module.exports = {
     mainMenu: [
       {
         title: 'Acceuil',
-        path: '/Acceuil',
+        path: '/acceuil',
       },
       {
         title: 'Le club',
