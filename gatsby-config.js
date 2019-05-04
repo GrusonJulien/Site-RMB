@@ -7,16 +7,16 @@ const postCSSMixins = require('postcss-mixins')
 
 module.exports = {
   siteMetadata: {
-    title: `Hello Friend`,
-    description: `A simple starter for Gatsby. That's it.`,
+    title: `RMB`,
+    description: `Reims Metropole Babminton`,
     copyrights: '',
-    author: `@panr`,
+    author: `@JulienG`,
     logo: {
-      src: '',
+      src: 'https://www.reims.fr/fileadmin/_processed_/6/5/csm_rmb_10af72ecd6.png',
       alt: '',
     },
-    logoText: 'hello friend',
-    defaultTheme: 'dark',
+    logoText: 'Reims Metropole Badminton',
+    defaultTheme: 'white',
     postsPerPage: 5,
     showMenuItems: 2,
     menuMoreText: 'Show more',
