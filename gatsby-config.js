@@ -12,11 +12,11 @@ module.exports = {
     copyrights: '',
     author: `@JulienG`,
     logo: {
-      src: 'https://www.reims.fr/fileadmin/_processed_/6/5/csm_rmb_10af72ecd6.png',
+      src: '',
       alt: '',
     },
     logoText: 'Reims Metropole Badminton',
-    defaultTheme: 'white',
+    defaultTheme: 'White',
     postsPerPage: 5,
     showMenuItems: 2,
     menuMoreText: 'Show more',
