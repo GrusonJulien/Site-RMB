@@ -18,7 +18,7 @@ module.exports = {
     logoText: 'Reims Metropole Badminton',
     defaultTheme: 'White',
     postsPerPage: 5,
-    showMenuItems: 4,
+    showMenuItems: 2,
     menuMoreText: 'Plus d\'info',
     mainMenu: [
       {
