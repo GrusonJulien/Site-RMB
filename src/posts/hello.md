@@ -1,19 +1,18 @@
 ---
-title: "Hello Friend"
-path: "/hello"
-date: "2019-01-17"
+title: "Le RMB est le nouveau club de Badminton de la métropole rémoise"
+path: "/RMB"
+date: "04-05-2019"
 coverImage: "../images/logo 8.jpg"
-author: "Elliot"
-excerpt: '"Hello, friend?" That''s lame. Maybe I should give you a name...'
-tags: ["rob____ot", "hello friend"]
+author: "GrusonJ"
+excerpt: 'né de la fusion de 2 grands clubs de Reims, l'ABC et le RUC. C'est un club pour tous les badistes, de 6 à 666 ans, que vous soyez néophyte ou compétiteur international!'
+tags: ["RMB"]
 ---
 
-> "Hello, friend?" That's lame. Maybe I should give you a name...\
-> But that's a slippery slope.\
-> You're only in my head.\
-> We have to remember that...\
-> Shit.\
-> It's actually happened.\
-> I'm talking to an imaginary person.
->
-> **— Mr. Robot S01E01**
+## Le club
+
+> Le RMB est le nouveau club de Badminton de Reims né de la fusion entre l'Asso Badminton Club et le Reims Université Club. Il vous accueil sur de nombreux créneaux tout au long de la semaine. 
+> Vous êtes loisir et la compétition ne vous intéresse pas le moins du monde? Des créneaux du mardi au vendredi sont disponibles pour du jeu libre en toute liberté.
+> Vous êtes compétiteurs? Un entraîneur diplômé sera là pour vous donner des entraînements tout au long de la saison, au minimum une fois par semaine. 
+> Vous êtes jeunes, compétiteurs ou non? Des créneaux dispatchés sur la semaine vous sont proposés avec un encadrement adapté au niveau de chacun.
+> Vous avez besoins de reprendre goût au sport en douceur tout en étant accompagné? Le club vous propose un créneau sport santé tous les vendredis.
+> Voilà tout est dit, il y en a pour tous les goûts et pour tous les âges, alors prenez votre raquette et vos chaussures de sport et venez jouer avec nous!
