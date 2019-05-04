@@ -5,7 +5,6 @@ date: "04-05-2019"
 coverImage: "../images/logo 8.jpg"
 author: "GrusonJ"
 excerpt: 'né de la fusion de 2 grands clubs de Reims, l'ABC et le RUC. C'est un club pour tous les badistes, de 6 à 666 ans, que vous soyez néophyte ou compétiteur international!'
-tags: ["RMB"]
 ---
 
 ## Le club
