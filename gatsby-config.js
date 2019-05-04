@@ -26,10 +26,6 @@ module.exports = {
         path: '/acceuil',
       },
       {
-        title: 'Le club',
-        path: '/club',
-      },
-      {
         title: 'Les informations',
         path: '/info',
       },
@@ -118,9 +114,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-hello-friend`,
-        short_name: `hello-friend`,
-        start_url: `/`,
+        name: `Reims Metropole Badminton`,
+        short_name: `rmb`,
+        start_url: `/acceuil`,
         background_color: `#292a2d`,
         theme_color: `#292a2d`,
         display: `minimal-ui`,
