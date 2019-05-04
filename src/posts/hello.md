@@ -1,7 +1,7 @@
 ---
 title: "Le RMB est le nouveau club de Badminton de la métropole rémoise"
 path: "/RMB"
-date: "04-05-2019"
+date: "2019-05-04"
 coverImage: "../images/logo 8.jpg"
 author: "GrusonJ"
 excerpt: 'né de la fusion de 2 grands clubs de Reims, l'ABC et le RUC. C'est un club pour tous les badistes, de 6 à 666 ans, que vous soyez néophyte ou compétiteur international!'
