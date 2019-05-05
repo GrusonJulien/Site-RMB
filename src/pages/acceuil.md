@@ -1,13 +1,11 @@
 ---
-title: "Acceuil"
+title: "Le club"
 date: "2019-05-04"
 author: "JulienG"
 path: "/acceuil"
 ---
 
 ![rmb logo](https://4.bp.blogspot.com/-_uOCO5bNlg8/WaxZQJ2N9cI/AAAAAAAAAIE/jEhvMuOgrjY0pRZQ6keYNzjfaRDsmd9-gCK4BGAYYCw/s1600/logo%2B8.jpg)
-
-# Le club
 
 Le RMB est le nouveau club de Badminton de Reims né de la fusion entre l'Asso Badminton Club et le Reims Université Club. Il vous accueil sur de nombreux créneaux tout au long de la semaine. 
 
