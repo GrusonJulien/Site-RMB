@@ -15,7 +15,7 @@ const Footer = ({ copyrights }) => (
           © 2019 RMB 
         </span>
         <span className="footerCopyrights">
-          Site créer par JulienG
+          Site créé par Julien
         </span>
       </>
     )}
