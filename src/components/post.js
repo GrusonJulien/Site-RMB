@@ -30,7 +30,6 @@ const Post = ({
           {excerpt ? <Link to={path}>{title}</Link> : title}
         </h1>
         <div className={style.meta}>
-          {date} {author && <>— Ecrit par {author}</>}
           {tags ? (
             <div className={style.tags}>
               {tags.map(tag => (
