@@ -49,7 +49,7 @@ export const pageQuery = graphql`
     markdownRemark(frontmatter: { path: { eq: $path } }) {
       frontmatter {
         title
-        date
+        date(formatString: "DD MMMM YYYY", locale: "fr")
         path
         author
         excerpt
