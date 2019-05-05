@@ -2,7 +2,7 @@
 title: "Les licences"
 date: "2019-05-05"
 author: ""
-path: "/Licence"
+path: "/licence"
 ---
 
 ## Le RMB propose plusieurs formules de licence :
