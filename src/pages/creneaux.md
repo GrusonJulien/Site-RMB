@@ -1,5 +1,5 @@
 ---
-title: "Les Créneaux"
+title: "Les créneaux"
 date: "2019-05-04"
 author: "Julien"
 path: "/creneaux"
