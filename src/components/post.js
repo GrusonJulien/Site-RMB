@@ -1,13 +1,11 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import moment from 'moment'
 import { Link } from 'gatsby'
 import Img from 'gatsby-image'
 import Navigation from './navigation'
 import { toKebabCase } from '../helpers'
 
 import style from '../styles/post.module.css'
-moment.local('fr')
 const Post = ({
   title,
   date,
@@ -32,7 +30,7 @@ const Post = ({
           {excerpt ? <Link to={path}>{title}</Link> : title}
         </h1>
         <div className={style.meta}>
-          {moment(date)} {author && <>— Ecrit par {author}</>}
+          {date} {author && <>— Ecrit par {author}</>}
           {tags ? (
             <div className={style.tags}>
               {tags.map(tag => (
