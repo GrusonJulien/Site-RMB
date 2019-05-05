@@ -26,10 +26,6 @@ module.exports = {
         path: '/acceuil',
       },
       {
-        title: 'Les informations',
-        path: '/info',
-      },
-      {
         title: 'Les créneaux',
         path: '/creneaux',
       },
