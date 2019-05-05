@@ -6,6 +6,8 @@ author: "GrusonJ"
 excerpt: "Nouvel évenement RMB" 
 ---
 
+![rmb adoptetonrec](https://scontent-cdt1-1.xx.fbcdn.net/v/t1.0-9/59490572_10156442400293831_3583789581582991360_n.jpg?_nc_cat=105&_nc_ht=scontent-cdt1-1.xx&oh=c3799b2dcc5bfd81839b8fb6498b63a9&oe=5D6AF8B2)
+
 Bonjour à tous, 
 
 Comme je vous en ai parlé lors du vote, une soirée en compagnie du REC est en train de s'organiser. Elle aura lieu mercredi 15 Mai. Nous ne pouvons commencer qu'à 19h30 mais vous pouvez venir à 19h15 afin de débuter au plus tôt . 
