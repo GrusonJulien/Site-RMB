@@ -33,6 +33,10 @@ module.exports = {
         title: 'Les créneaux',
         path: '/creneaux',
       },
+       {
+        title: 'Les licences',
+        path: '/licence',
+      },
     ],
   },
   plugins: [
