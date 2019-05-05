@@ -13,6 +13,49 @@ path: "/creneaux"
 * Le gymnase Europe, 77 avenue de l'Europe
 * Le gymnase Halle croix rouge, 4 avenue François Mauriac
 
+<table>
+    <thead>
+        <tr>
+            <th align="center"></th>
+            <th align="center">Yser</th>
+            <th align="center">Europe</th>
+            <th align="center">La Halle</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td lign="center">Lundi</td>
+            <td lign="center">19h à 21h</td>
+            <td lign="center"> - </td>
+            <td lign="center"> - </td>            
+        </tr>
+        <tr>
+            <td lign="center">Mardi</td>
+            <td lign="center">18h à 22h</td>
+            <td lign="center">18h à 20h</td>
+            <td lign="center">20h à 22h</td>            
+        </tr>
+        <tr>
+            <td lign="center">Mercredi</td>
+            <td lign="center">18h à 22h</td>
+            <td lign="center"> - </td>
+            <td lign="center">20h à 22h</td>            
+        </tr>
+        <tr>
+            <td lign="center">Jeudi</td>
+            <td lign="center">18h à 21h</td>
+            <td lign="center"> - </td>
+            <td lign="center"> - </td>            
+        </tr>
+        <tr>
+            <td lign="center">Vendredi</td>
+            <td lign="center">18h à 21h</td>
+            <td lign="center"> - </td>
+            <td lign="center"> - </td>            
+        </tr>
+    </tbody>
+</table>
+
 ### Le lundi:
 * de 19h à 21h: Yser (jeu libre)
 
