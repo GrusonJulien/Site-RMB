@@ -1,9 +1,11 @@
 ---
-path: "/Licence"
+title: "Les licences"
+date: ""
+author: ""
+path: "/licence"
 ---
 
-# Les licences
-Le RMB propose plusieurs formules de licence:
+ # Le RMB propose plusieurs formules de licence:
 
 ## Licence loisir:
 D'un montant de 125€, vous aurez accès à tous les créneaux de jeu libre et d'entrainement loisir.
