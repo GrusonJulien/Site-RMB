@@ -1,11 +1,9 @@
 ---
-title: "Créneaux"
+title: "Les Créneaux"
 date: "2019-05-04"
-author: "JulienG"
+author: "Julien"
 path: "/creneaux"
 ---
-
-# Les créneaux
 
 ## Trois gymnases vous accueillent pour différents créneaux tout au long de la semaine:
 
