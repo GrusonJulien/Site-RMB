@@ -22,8 +22,8 @@ module.exports = {
     menuMoreText: 'Plus d\'info',
     mainMenu: [
       {
-        title: 'Acceuil',
-        path: '/acceuil',
+        title: 'Aceuil',
+        path: '/aceuil',
       },
       {
         title: 'Les créneaux',
