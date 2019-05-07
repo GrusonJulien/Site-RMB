@@ -2,7 +2,7 @@
 title: "Le club"
 date: "2019-05-04"
 author: "JulienG"
-path: "/aceuil"
+path: "/accueil"
 ---
 
 ![rmb logo](https://4.bp.blogspot.com/-_uOCO5bNlg8/WaxZQJ2N9cI/AAAAAAAAAIE/jEhvMuOgrjY0pRZQ6keYNzjfaRDsmd9-gCK4BGAYYCw/s1600/logo%2B8.jpg)
