@@ -1,5 +1,5 @@
 ---
-title: "Les entrainnements"
+title: "Les entrainements"
 path: "/video"
 date: "2019-05-04"
 author: "GrusonJ"
