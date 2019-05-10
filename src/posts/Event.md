@@ -1,4 +1,3 @@
-
 ---
 title: "Vendredi cocktail"
 path: "/event"
